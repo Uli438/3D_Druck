@@ -1,0 +1,15 @@
+Birdino Konstruktion – Installation als App auf dem PC
+
+1. Auf GitHub ein neues Repository anlegen, z. B. "birdino-konstruktion".
+2. Alle Dateien aus diesem Ordner hochladen (index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png).
+3. Settings > Pages: Branch "main", Ordner "/ (root)" wählen, speichern.
+4. Nach ein bis zwei Minuten die Seite in Chrome oder Edge öffnen:
+   https://uli438.github.io/birdino-konstruktion/
+5. In der Adressleiste auf das Symbol "App installieren" klicken.
+
+Die App läuft danach in einem eigenen Fenster, startet über Startmenü oder Taskleiste
+und funktioniert auch ohne Internet. Updates: neue index.html hochladen und in sw.js
+die Zahl hinter "birdino-konstruktion-" um eins erhöhen.
+
+Hinweis: Jede Adresse hat ihren eigenen Speicher. Einen Zusammenbau aus der Claude-Version
+holst du über "Für Claude kopieren" und "Text übernehmen" in die installierte App.
